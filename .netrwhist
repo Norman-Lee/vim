@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/NormanLee/.vim'
+let g:netrw_dirhist_2='/Users/NormanLee'
+let g:netrw_dirhist_3='/Users/NormanLee/.vim'
+let g:netrw_dirhist_4='/Users/NormanLee/Projects'
+let g:netrw_dirhist_5='/Users/NormanLee/Projects/version-1/lawfinder_laravel/app/views/firms'
+let g:netrw_dirhist_6='/Users/NormanLee/Projects/version-1/lawfinder_laravel/bootstrap'
+let g:netrw_dirhist_7='/Users/NormanLee/Projects/version-1/lawfinder_laravel/app/config/mac-local'
+let g:netrw_dirhist_8='/Users/NormanLee/Projects/version-1/lawfinder_laravel/public/javascript'
+let g:netrw_dirhist_9='/Users/NormanLee/.ssh'
